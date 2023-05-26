@@ -1,5 +1,5 @@
 class Helloworld{
 	public static void main(String[args){
-                 system.out.println("Hello,world siddaganga polytechnic");
+                 system.out.println("Hello,world siddaganga polytechnic tumkur");
 	}
    }	
